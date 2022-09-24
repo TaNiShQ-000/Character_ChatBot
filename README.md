@@ -6,3 +6,5 @@
 *Libraries/Tools used* - transformers by HuggingFace, TensorFlow,Torch, pickle
 
 **The basic idea**- the core idea behind this project was to build a chatbot that can replicate a targeted entity , by taking input the messages and their reply (in tokenised form) and then tain it using the "Transformers". This chatbot not only gives fixed replies but also learns from its previous execution
+
+the model form the process is uploaded to a file using "Pikle" which is then used to deploy the bot on the huggingface app
